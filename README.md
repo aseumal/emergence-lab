@@ -22,7 +22,7 @@ Does Metro Manila flood gradually, or does it cross a threshold? A probabilistic
 
 When does individual GenAI use become a collective workplace norm? An agent-based simulation grounded in Schelling's Segregation model and Granovetter's Threshold Models of Collective Behavior, exploring how adoption spreads, stalls, cascades, or clusters — and where governance can make it more visible and inclusive.
 
-[→ Code](https://github.com/aseumal/AdoptAI)
+[→ Live scrollytelling](https://aseumal.github.io/AdoptAI/) · [→ Code](https://github.com/aseumal/AdoptAI)
 
 ### 🚀 [GenAI Experimentation to Scale](https://github.com/aseumal/genai-experimentation-to-scale)
 **Diffusion · Percolation · Tipping Points**
@@ -46,4 +46,4 @@ When does GenAI adoption move from scattered pilots to organizational scale? A s
 
 ## Companion identity
 
-For the engineering side of this work — production AI systems, agentic architectures, AI governance implementations — see [AI Agent Arc](https://github.com/aseumal?tab=repositories&q=topic%3Aagentic-ai).
+For the engineering side of this work — production AI systems, agentic architectures, AI governance implementations — see [AI Agent Arc](https://github.com/aseumal/ai-agent-arc).
