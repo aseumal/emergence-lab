@@ -24,10 +24,12 @@ When does individual GenAI use become a collective workplace norm? An agent-base
 
 [→ Code](https://github.com/aseumal/AdoptAI)
 
-### 🚀 GenAI Experimentation to Scale
+### 🚀 [GenAI Experimentation to Scale](https://github.com/aseumal/genai-experimentation-to-scale)
 **Diffusion · Percolation · Tipping Points**
 
-*In progress.*
+When does GenAI adoption move from scattered pilots to organizational scale? A scrollytelling simulation built on a percolation lattice — diffusion explains how practices spread, percolation explains whether local clusters connect into an organization-wide pathway, and the tipping point marks the transition from experimentation to momentum. Threshold Theory and Segregation Theory explain the individual-level mechanics underneath.
+
+[→ Live scrollytelling](https://aseumal.github.io/genai-experimentation-to-scale/) · [→ Code](https://github.com/aseumal/genai-experimentation-to-scale)
 
 ---
 
