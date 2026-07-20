@@ -31,6 +31,13 @@ When does GenAI adoption move from scattered pilots to organizational scale? A s
 
 [→ Live scrollytelling](https://aseumal.github.io/genai-experimentation-to-scale/) · [→ Code](https://github.com/aseumal/genai-experimentation-to-scale)
 
+### 🔀 [Why Do Some GenAI Pilots Never Scale?](https://github.com/aseumal/genai-pilots-exploratory-story)
+**Markov Chains · Organizational Adoption Stages · Monte Carlo**
+
+Why does a successful pilot still stall out six months later? A scrollytelling piece treating adoption as a Markov process — a pilot is one state among several possible next states, not an endpoint — with Threshold Theory, Segregation Theory, Diffusion, and Percolation explaining why one pathway (assimilation, isolated capability, or abandonment) becomes more likely than another.
+
+[→ Live scrollytelling](https://aseumal.github.io/genai-pilots-exploratory-story/) · [→ Code](https://github.com/aseumal/genai-pilots-exploratory-story)
+
 ---
 
 ## Research themes
